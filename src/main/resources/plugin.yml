@@ -1,0 +1,7 @@
+name: Vampire
+version: '${1.0-SNAPSHOT}'
+main: tlqtka.plugin.vampire.Main
+api-version: 1.20
+authors: [ tlqtka ]
+description: Vampire in minecraft
+website: https://github.com/tlqtka
